@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fastapi": "^0.0.8",
+    "uvicorn": "^0.0.1-security"
+  }
+}
